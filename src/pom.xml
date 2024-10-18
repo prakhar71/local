@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>in.radewoosh</groupId>
+        <artifactId>radewoosh-spring-boot-pom</artifactId>
+        <version>2.3.6</version>
+    </parent>
+    <groupId>in.radewoosh</groupId>
+    <artifactId>turbo-ext-integrator</artifactId>
+    <version>3.0.25-RELEASE-SNAPSHOT</version>
+    <name>turbo-ext-integrator</name>
+    <description>Turbo Ext Integrator</description>
+</project>
