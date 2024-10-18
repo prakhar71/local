@@ -9,7 +9,7 @@
     </parent>
     <groupId>in.radewoosh</groupId>
     <artifactId>turbo-ext-integrator</artifactId>
-    <version>3.0.25-RELEASE-SNAPSHOT</version>
+    <version>3.0.29-SNAPSHOT</version>
     <name>turbo-ext-integrator</name>
     <description>Turbo Ext Integrator</description>
 </project>
