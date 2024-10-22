@@ -21,7 +21,7 @@ public class class1 {
 
     }
 
-    static void printLeftView(Node root) {
+    public static void printLeftView(Node root) {
         if (root == null) return;
 
         Queue<Node> q = new LinkedList<>();
